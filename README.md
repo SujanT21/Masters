@@ -1,2 +1,2 @@
 # Masters
-Projects and assignments throughout the Mater's course in Data Science
+Projects and assignments throughout the Master's course in Data Science
