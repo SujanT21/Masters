@@ -1,0 +1,11 @@
+   65  sudo apt install openjdk-8-jdk -y
+   66  export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+   67  PATH=$JAVA_HOME/bin:$PATH
+   68  export HADOOP_HOME=/home/pravin_vm/Desktop/hadoop-2.7.3
+   69  PATH=$HADOOP_HOME/bin:$PATH
+   70  hadoop
+   71  hdfs dfs
+   72  clear
+   73  hadoop
+   74  history
+
